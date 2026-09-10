@@ -92,30 +92,37 @@ The mobile-first prototype contains 11 connected screens and demonstrates the co
 The dashboard gives travellers an at-a-glance view of their upcoming trip, budget usage, group members, activity count, group match, and days remaining.
 
 ### 2. Create Trip
+![Trip](newtrip.png)
 
 The organiser enters the destination, dates, number of travellers, total budget, travel style, and interests before inviting the group to contribute preferences.
 
 ### 3. Group Preferences
+![Preference](preference.png)
 
 The group can review each member's budget level and interests, see shared interests, and check an overall compatibility score before generating the itinerary.
 
 ### 4. AI-Generated Itinerary
+![Itinerary](Itinerary.png)
 
 TripSync presents a day-by-day timeline in which each activity includes its estimated cost, travel time, and preference-match score, helping users understand why an activity fits the group.
 
 ### 5. Budget and Cost Splitting
+![Budget](budget.png)
 
 The budget screen compares spending against category limits, shows the remaining trip budget, and summarises payments and settlements between group members.
 
 ### 6. Interactive Trip Map
+![Map](map.png)
 
 The map displays colour-coded attractions, hotels, food stops, and shopping locations. Travellers can select a place to view walking time, opening status, and whether it is already included in the itinerary.
 
 ### 7. Flight Delay Impact Analysis
+![Flight Delay](flightdelay.png)
 
 When a flight is delayed, TripSync shows the original and new arrival times, identifies affected activities, and explains whether each activity must be removed or rescheduled.
 
 ### 8. Re-planned Itinerary and Trip Summary
+![New Plan](newplan.png)
 
 The recovery screen compares the revised plan with the original, including time saved, estimated cost, number of changes, and group-match improvement. After accepting the plan, travellers receive a summary of spending, completed activities, satisfaction, destinations, and AI-assisted recoveries.
 
