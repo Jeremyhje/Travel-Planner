@@ -87,6 +87,7 @@ The mobile-first prototype contains 11 connected screens and demonstrates the co
 ## Key Screens
 
 ### 1. Home Dashboard
+![Home](home.png)
 
 The dashboard gives travellers an at-a-glance view of their upcoming trip, budget usage, group members, activity count, group match, and days remaining.
 
