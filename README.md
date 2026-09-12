@@ -2,8 +2,8 @@
 
 **Team:** Jeremy Hon Jie En, Goh Jia He, Eddie Chu Lui Hang  
 **Problem Statement:** Travel Planner  
-**Video Presentation:** [YouTube Link]  
-**Presentation Slides:** [Slides Link]
+**Video Presentation:** [YouTube Link](https://www.youtube.com/watch?v=tDfcy_6dzQ8)<br>
+**Presentation Slides:** [Slides Link](https://canva.link/degsfnerodva7dl)
 
 ---
 
